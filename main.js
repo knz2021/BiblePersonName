@@ -75,7 +75,7 @@ function clickDisplay15() {
 }
 function clickDisplay16() {
   const element = document.getElementById("text-button16");
-  element.innerHTML = "神を敬う者";
+  element.innerHTML = "テモテ";
   element.style.backgroundColor = "pink";
 }
 function clickDisplay17() {
