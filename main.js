@@ -239,12 +239,12 @@ function clickDisplay48() {
   element.style.backgroundColor = "pink";
 }
 function clickDisplay49() {
-  const element = document.getElementById("text-button48");
+  const element = document.getElementById("text-button49");
   element.innerHTML = "ヨセフ";
   element.style.backgroundColor = "pink";
 }
 function clickDisplay50() {
-  const element = document.getElementById("text-button48");
+  const element = document.getElementById("text-button50");
   element.innerHTML = "ラザロ";
   element.style.backgroundColor = "pink";
 }
