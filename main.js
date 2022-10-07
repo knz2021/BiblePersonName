@@ -75,7 +75,7 @@ function clickDisplay15() {
 }
 function clickDisplay16() {
   const element = document.getElementById("text-button16");
-  element.innerHTML = "ドルカス";
+  element.innerHTML = "神を敬う者";
   element.style.backgroundColor = "pink";
 }
 function clickDisplay17() {
@@ -205,29 +205,46 @@ function clickDisplay41() {
 }
 function clickDisplay42() {
   const element = document.getElementById("text-button42");
-  element.innerHTML = "";
+  element.innerHTML = "エレミヤ";
+  element.style.backgroundColor = "pink";
 }
 function clickDisplay43() {
   const element = document.getElementById("text-button43");
-  element.innerHTML = "";
+  element.innerHTML = "ゼカリヤ";
+  element.style.backgroundColor = "pink";
 }
 function clickDisplay44() {
   const element = document.getElementById("text-button44");
-  element.innerHTML = "";
+  element.innerHTML = "セム";
+  element.style.backgroundColor = "pink";
 }
 function clickDisplay45() {
   const element = document.getElementById("text-button45");
-  element.innerHTML = "";
+  element.innerHTML = "ドルカス";
+  element.style.backgroundColor = "pink";
 }
 function clickDisplay46() {
   const element = document.getElementById("text-button46");
-  element.innerHTML = "";
+  element.innerHTML = "フィリポ";
+  element.style.backgroundColor = "pink";
 }
 function clickDisplay47() {
   const element = document.getElementById("text-button47");
-  element.innerHTML = "";
+  element.innerHTML = "ヤエル";
+  element.style.backgroundColor = "pink";
 }
 function clickDisplay48() {
   const element = document.getElementById("text-button48");
-  element.innerHTML = "";
+  element.innerHTML = "ユテコ";
+  element.style.backgroundColor = "pink";
+}
+function clickDisplay49() {
+  const element = document.getElementById("text-button48");
+  element.innerHTML = "ヨセフ";
+  element.style.backgroundColor = "pink";
+}
+function clickDisplay50() {
+  const element = document.getElementById("text-button48");
+  element.innerHTML = "ラザロ";
+  element.style.backgroundColor = "pink";
 }
