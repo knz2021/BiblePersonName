@@ -201,6 +201,7 @@ function clickDisplay40() {
 function clickDisplay41() {
   const element = document.getElementById("text-button41");
   element.innerHTML = "アビガイル";
+  element.style.backgroundColor = "pink";
 }
 function clickDisplay42() {
   const element = document.getElementById("text-button42");
