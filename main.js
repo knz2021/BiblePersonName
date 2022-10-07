@@ -190,7 +190,7 @@ function clickDisplay38() {
 }
 function clickDisplay39() {
   const element = document.getElementById("text-button39");
-  element.innerHTML = "アビガイル";
+  element.innerHTML = "パウロ";
   element.style.backgroundColor = "pink";
 }
 function clickDisplay40() {
@@ -200,7 +200,7 @@ function clickDisplay40() {
 }
 function clickDisplay41() {
   const element = document.getElementById("text-button41");
-  element.innerHTML = "";
+  element.innerHTML = "アビガイル";
 }
 function clickDisplay42() {
   const element = document.getElementById("text-button42");
