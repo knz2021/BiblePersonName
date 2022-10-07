@@ -1,6 +1,7 @@
 h1 {
   color: rgb(26, 64, 234);
   text-align: center;
+  margin: 0 auto;
 }
 /* flexコンテナ（親要素） */
 .wrap_content {
