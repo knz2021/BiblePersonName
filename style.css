@@ -1,5 +1,5 @@
 h1 {
-  font-size: x-large !important;
+  font-size: x-large;
   color: rgb(26, 64, 234);
   text-align: center;
   margin: 0 auto;
@@ -16,7 +16,7 @@ h1 {
   padding: 3%;
   background: #58ffde;
   margin: 10px 1.5%;
-  font-size: medium !important;
+  font-size: medium;
   font-weight: bold;
   color: rgb(26, 40, 234);
 }
