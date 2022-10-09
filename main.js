@@ -248,3 +248,8 @@ function clickDisplay50() {
   element.innerHTML = "ラザロ";
   element.style.backgroundColor = "pink";
 }
+function clickDisplay51() {
+  const element = document.getElementById("text-button51");
+  element.innerHTML = "ヤペテ";
+  element.style.backgroundColor = "pink";
+}
