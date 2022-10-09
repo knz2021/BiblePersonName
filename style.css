@@ -16,7 +16,7 @@ h1 {
   padding: 3%;
   background: #58ffde;
   margin: 10px 1.5%;
-  font-size: medium;
+  font-size: medium !important;
   font-weight: bold;
   color: rgb(26, 40, 234);
 }
