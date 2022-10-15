@@ -253,3 +253,13 @@ function clickDisplay51() {
   element.innerHTML = "ヤペテ";
   element.style.backgroundColor = "pink";
 }
+function clickDisplay52() {
+  const element = document.getElementById("text-button52");
+  element.innerHTML = "オバデヤ";
+  element.style.backgroundColor = "pink";
+}
+function clickDisplay53() {
+  const element = document.getElementById("text-button53");
+  element.innerHTML = "アンデレ";
+  element.style.backgroundColor = "pink";
+}
